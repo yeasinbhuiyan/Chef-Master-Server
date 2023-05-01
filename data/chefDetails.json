@@ -2,54 +2,60 @@
     {
         "id": 1,
         "name": "Rayhan Uddin",
-        "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "image": "https://media.istockphoto.com/id/1417839986/photo/asian-indian-chef-preparing-taco-mexican-food-in-kitchen.jpg?s=612x612&w=0&k=20&c=_Mp5ilmARIj6CdnK3C2KCw_j3D0-11Dd1aZoZEaeqkg=",
         "experience": "5 Years",
-        "recipes": 4,
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero quibusdam nulla adipisci, recusandae quam optio velit expedita possimus incidunt eligendi aspernatur magnam eos unde atque ab odit voluptate, dolor obcaecati!",
+        "recipe_number": 4,
         "likes": 100
 
     },
     {
         "id": 2,
         "name": "Rayhan Uddin",
-        "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "image": "https://plus.unsplash.com/premium_photo-1661778032392-28cecebb8059?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "experience": "5 Years",
-        "recipes": 4,
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero quibusdam nulla adipisci, recusandae quam optio velit expedita possimus incidunt eligendi aspernatur magnam eos unde atque ab odit voluptate, dolor obcaecati!",
+        "recipe_number": 4,
         "likes": 100
 
     },
     {
         "id": 3,
         "name": "Rayhan Uddin",
-        "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "experience": "5 Years",
-        "recipes": 4,
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero quibusdam nulla adipisci, recusandae quam optio velit expedita possimus incidunt eligendi aspernatur magnam eos unde atque ab odit voluptate, dolor obcaecati!",
+        "recipe_number": 4,
         "likes": 100
 
     },
     {
         "id": 4,
         "name": "Rayhan Uddin",
-        "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "image": "https://media.istockphoto.com/id/1365253730/photo/crazy-chef-with-frying-pan.jpg?s=612x612&w=0&k=20&c=mloZQF9O94NLleMLQexFmmoyB5eWA87XAkBI3gmzcMk=",
         "experience": "5 Years",
-        "recipes": 4,
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero quibusdam nulla adipisci, recusandae quam optio velit expedita possimus incidunt eligendi aspernatur magnam eos unde atque ab odit voluptate, dolor obcaecati!",
+        "recipe_number": 4,
         "likes": 100
 
     },
     {
         "id": 5,
         "name": "Rayhan Uddin",
-        "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1622221410151-2e0c403c5c38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "experience": "5 Years",
-        "recipes": 4,
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero quibusdam nulla adipisci, recusandae quam optio velit expedita possimus incidunt eligendi aspernatur magnam eos unde atque ab odit voluptate, dolor obcaecati!",
+        "recipe_number": 4,
         "likes": 100
 
     },
     {
         "id": 6,
         "name": "Rayhan Uddin",
-        "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "image": "https://media.istockphoto.com/id/1414955236/photo/chef-cook-using-smart-phone-at-the-restaurant-kitchen-and-looking-camera.jpg?s=612x612&w=0&k=20&c=YKfGvjfPucT8TIyuhppLBOEDn1mOJPGckSbjUYATOQE=",
         "experience": "5 Years",
-        "recipes": 4,
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero quibusdam nulla adipisci, recusandae quam optio velit expedita possimus incidunt eligendi aspernatur magnam eos unde atque ab odit voluptate, dolor obcaecati!",
+        "recipe_number": 4,
         "likes": 100
 
     }
