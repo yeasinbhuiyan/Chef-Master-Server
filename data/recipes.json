@@ -4,9 +4,9 @@
         "recipe_id":"2fddds3jf",
         "recipe_name": "Beef Biriyani",
         "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k=",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates."
-
+        "ingredients": "Beef , Basmati rice , Biryani masala ,  Onions  ,  Yogurt",
+         "details": "first marinate the beef with yogurt and biryani masala. Then, fry sliced onions until golden brown and set them aside. Brown the marinated beef in a pot, add water and salt, and let it cook until tender. Boil basmati rice in a separate pot until half cooked, then add it to the beef pot and stir gently. Top with fried onions and cover the pot, cooking for an additional 10-15 minutes until the rice is fully cooked. Serve hot and enjoy!",
+        "rating": 4.5
 
     },
 
@@ -14,9 +14,9 @@
         "chef_id": 1,
         "recipe_id":"32f3jjklajfklaf",
         "recipe_name": "Chicken Biriyani",
-        
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
+        "rating": 4.9,
+        "ingredients": "Chicken , Basmati rice , Biryani masala , Yogurt , Onions",
+        "details" : "start by rinsing the basmati rice in cold water and soaking it for 30 minutes. In the meantime, marinate the chicken with yogurt and biryani masala in a large mixing bowl. Cover the bowl and refrigerate for at least an hour. Then, heat the vegetable oil in a large pot or Dutch oven over medium-high heat. Add sliced onions and fry until golden brown and crispy. Remove the onions from the pot and set aside. Add the marinated chicken to the pot and cook until it is browned on all sides. Add 4 cups of water and salt to the pot, cover it with a lid, and let it cook for about 30 minutes or until the chicken is tender. In a separate pot, boil the soaked basmati rice in salted water until it is half cooked. Drain the rice and add it to the pot with the cooked chicken. Stir gently until the rice is evenly distributed. Top with the fried onions and chopped fresh herbs such as cilantro or mint. Cover the pot and cook on low heat for an additional 10-15 minutes until the rice is fully cooked and fluffy. Serve hot with raita or your favorite chutney.",
         "image": "https://media.istockphoto.com/id/1333127665/photo/chicken-biryani-spicy-indian-malabar-biryani-hyderabadi-biryani-dum-biriyani-pulao-golden.jpg?s=612x612&w=0&k=20&c=63UXYPOISm8nJ8SNK79dDm0w1gY6jXzYQP0heL6fnOg="
 
 
@@ -27,8 +27,9 @@
         "chef_id": 1,
         "recipe_id":"32f3jfds",
         "recipe_name": "Chicken Tikka Masala",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
+        "rating":4.4,
+        "ingredients": "Chicken , Tomatoes , Cream , Garam masala , Ginger and garlic paste",
+        "details" : "start by marinating chicken in a mixture of yogurt, ginger-garlic paste, and spices such as cumin, coriander, and turmeric. Grill or bake the chicken until it is cooked through and slightly charred. In a separate pan, sauté onions, garlic, and ginger until soft, then add diced or pureed tomatoes and cook until they break down into a thick sauce. Stir in spices such as garam masala, paprika, and chili powder, and add cream or coconut milk for a creamy finish. Finally, add the grilled chicken to the sauce and simmer for a few minutes until the flavors meld together. Serve hot with rice, naan, or your favorite flatbread.",
         "image": "https://media.istockphoto.com/id/1365548297/photo/spicy-indian-chicken-tikka-masala-served-at-an-expensive-fine-dining-restaurant.jpg?s=612x612&w=0&k=20&c=snn7wGdWMj0nYOjHNG7z4jgmhZ8071qnb_apYG6V5qs="
 
 
@@ -39,10 +40,11 @@
     {
         "chef_id": 1,
         "recipe_id":"3a3jaa",
-        "recipe_name": "Chicken Wings Grilled",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/629776842/photo/baked-chicken-wings-on-a-white-plate.jpg?s=612x612&w=0&k=20&c=nABgRprSGqCsfhdVsPu7ALIGE22AEi5gf9b5U7UmHLU="
+        "recipe_name": "Bhuna Khichuri",
+        "rating":4.7,
+        "ingredients": "MoogdAl 1 cup , PolAu Rice  2 cups , Finely diced ginger 2 tsp , Salt 1 tbsp , Cinnamon Sticks 2/3 , Bayleaf 2 [small ones]",
+        "details" : "Khichuri (also known as khichri in the Indian subcontinent) is a dish essentially of rice and lentils. There are an infinite varieties of Khichuri. This version is a drier version and uses Moog Daal (Mung beans) instead of the standard yellow lentils.. Ingredients MoogdAl 1 cup PolAu Rice  2 cups Finely diced ginger 2 tsp",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri-800x475.png"
 
 
     },
@@ -59,9 +61,10 @@
         "chef_id": 2,
         "recipe_id":"32f3ddf",
         "recipe_name": "Brown Rice",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/157646162/photo/vegetarian-fried-rice-with-vegetables-healthy.jpg?s=612x612&w=0&k=20&c=1p6fTK0uj9fV1hxyaMOm1mOlrfMl67uT0AiyqTiV3ug="
+        "rating":4.8,
+        "ingredients": "Brown rice , Water or broth , Salt , Olive oil or butter (optional)",
+        "details" : "start by rinsing the brown rice under cold running water to remove any debris or excess starch. In a medium saucepan, combine the brown rice and water or broth in a ratio of 2:1 (2 cups of water for every 1 cup of rice). Add a pinch of salt to season the rice, and a small amount of olive oil or butter (optional) to add flavor and richness. Bring the water to a boil over high heat, then reduce the heat to low and cover the pot with a tight-fitting lid. Let the rice simmer for about 40-50 minutes, or until the water is absorbed and the rice is tender and fluffy. Remove the pot from the heat and let the rice sit, covered, for about 5-10 minutes to steam and absorb any excess moisture. Fluff the rice with a fork and serve hot or use it in your favorite recipe.",
+        "image": "https://media.istockphoto.com/id/1372166601/photo/portion-of-cooked-salmon-with-rice-and-greens.jpg?s=612x612&w=0&k=20&c=m0H3dNydJgmdiiWoWUxK9ksg68EeVDoCoiBLcUFpLYA="
 
 
     },
@@ -69,10 +72,11 @@
     {
         "chef_id": 2,
         "recipe_id":"3dfsfgfgf3jf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Dharosh Bhaji",
+        "rating":4.2,
+        "ingredients":" Okra , Oil , Cumin seeds , Onions , Garlic , Tomatoes",
+        "details" : "start by washing and drying the okra, then cutting it into small pieces. In a pan, heat some oil and add cumin seeds, sliced onions, and minced garlic. Sauté until the onions are translucent, then add diced tomatoes, turmeric, coriander, and cumin powder. Cook until the tomatoes are soft and the spices are fragrant. Add the okra to the pan and stir to coat it with the tomato and spice mixture. Cover the pan and let the okra cook over medium heat for about 10-15 minutes, stirring occasionally, until it is tender but still retains some bite. Finally, sprinkle some garam masala over the dish and garnish with fresh cilantro before serving hot with rice or flatbread.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/07/okra.jpg"
 
 
     },
@@ -80,10 +84,11 @@
     {
         "chef_id": 2,
         "recipe_id":"32f3jdddd",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Tikiya Kabab",
+        "rating":4.9,
+        "ingredients": "Potatoes , Onions , Green chilies , Coriander leaves , Cumin powder",
+        "details" : "start by boiling some potatoes until they are tender, then mash them with a fork or potato masher. In a mixing bowl, add the mashed potatoes, finely chopped onions, green chilies, coriander leaves, cumin powder, garam masala powder, and salt to taste. Mix all the ingredients together until well combined. Then, divide the mixture into equal portions and shape them into flat patties or kababs. Heat some oil in a frying pan over medium heat and fry the kababs until they are golden brown on both sides, flipping them carefully with a spatula. Once the kababs are cooked, remove them from the pan and serve hot with mint chutney or your favorite dipping sauce.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/TikiyaKabab1-800x475.png"
 
 
     },
@@ -98,10 +103,11 @@
     {
         "chef_id": 3,
         "recipe_id":"32dddsaasf3jf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Beef Vindaloo",
+        "rating":4.1,
+        "ingredients": "Beef , Ginger , Garlic , Cumin powder , Coriander powder , Oil",
+        "details" : "marinating cubed beef with ginger, garlic, and a mixture of spices such as cumin, coriander, turmeric, and red chili powder for at least 1-2 hours. In a pan, heat some oil and add sliced onions, diced tomatoes, and salt. Sauté until the onions are golden brown and the tomatoes are soft. Add the marinated beef to the pan and stir well to coat it with the tomato mixture. Pour in a mixture of vinegar and water and bring the mixture to a boil, then reduce the heat to low and cover the pan with a lid. Let the beef simmer for about 1-2 hours, or until it is tender and the sauce has thickened. Serve hot with rice or naan bread.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/09/vindaloo.jpg"
 
 
     },
@@ -110,10 +116,10 @@
     {
         "chef_id": 3,
         "recipe_id":"32fddd773jf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Mashur Daal",
+        "ingredients": "Red lentils , Oil , Cumin seeds , Onions , Tomatoes",
+        "details" : "start by rinsing the red lentils and soaking them for at least 30 minutes. In a pressure cooker or pot, heat some oil and add cumin seeds, chopped onions, and chopped tomatoes. Sauté until the onions are golden brown and the tomatoes are soft. Add the soaked lentils, water, salt, and a pinch of turmeric powder to the pot and stir well. If using a pressure cooker, cook on high for about 10-12 minutes or until the lentils are tender. If using a regular pot, simmer the lentils until they are soft and tender, stirring occasionally. In a separate pan, heat some ghee or clarified butter and add some cumin seeds and red chili powder. Once the seeds start to sizzle, pour the mixture over the cooked lentils and stir well. Serve hot with rice or naan bread.",
+        "image": "https://media.istockphoto.com/id/1400659148/photo/rajasthani-dish-cusine-meal-called-dal-baati-churma.jpg?b=1&s=170667a&w=0&k=20&c=W9Y9TZEKU7xyj1ISswNK3mxzJYGsOp2yWz2UchckwXQ="
 
 
     },
@@ -121,10 +127,11 @@
     {
         "chef_id": 3,
         "recipe_id":"32f443jf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Palong Shaak Bhaji",
+        "rating":4.6,
+        "ingredients": "Spinach leaves , Oil , Cumin seeds , Onions , Garlic",
+        "details" : "start by washing and chopping spinach leaves. In a pan, heat some oil and add cumin seeds, chopped onions, and minced garlic. Sauté until the onions are translucent and the garlic is fragrant. Add chopped tomatoes, salt, and red chili powder to the pan and cook until the tomatoes are soft and the mixture has thickened. Add the chopped spinach to the pan and stir well. Cook the spinach on medium heat for 5-7 minutes or until it has wilted down and cooked through. Add a splash of water if the mixture becomes too dry. Once the spinach is cooked, turn off the heat and add a dollop of ghee or clarified butter. Serve hot with rice or naan bread.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/09/spinach.jpg"
 
 
     },
@@ -132,10 +139,11 @@
     {
         "chef_id": 3,
         "recipe_id":"32f3000jf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Beef Shingaras",
+        "rating": 5,
+        "ingredients": "Minced beef , Oil , Garlic , Ginger , Cumin , Coriander",
+        "details" : " start by cooking minced beef with chopped onions, garlic, and ginger in a pan until the beef is browned and cooked through. Add spices like cumin, coriander, and garam masala, and cook for a few more minutes. Let the filling cool completely before making the shingaras. To make the pastry, mix together flour, salt, and oil until the mixture resembles coarse breadcrumbs. Add water gradually to form a smooth dough. Roll out the dough and cut into circles. Fill each circle with the beef filling, fold into a triangle, and seal the edges with a mixture of flour and water. Deep-fry the shingaras in hot oil until they are golden brown and crispy. Serve hot with your favorite dipping sauce.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/11/P1010943-1024x768.jpg"
 
 
     },
@@ -145,10 +153,10 @@
     {
         "chef_id": 3,
         "recipe_id":"32f3jf221f",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Tomato Begun",
+        "ingredients": "Eggplant , Oil , Cumin seeds , Onions , Garlic , Tomatoes",
+        "details" : "roasting a large eggplant in the oven until it is tender and the skin is charred. Once it has cooled, remove the skin and chop the flesh into small pieces. In a pan, heat some oil and add cumin seeds, chopped onions, and minced garlic. Sauté until the onions are translucent and the garlic is fragrant. Add chopped tomatoes, salt, and turmeric powder to the pan and cook until the tomatoes are soft and the mixture has thickened. Add the chopped eggplant to the pan and stir well. Cook on medium heat for 5-7 minutes or until the eggplant is cooked through and the flavors have blended. Once the curry is cooked, turn off the heat and garnish with fresh cilantro. Serve hot with rice or bread.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020495.jpg"
 
 
     },
@@ -164,10 +172,10 @@
     {
         "chef_id": 4,
         "recipe_id":"32faaj33jf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Tomato Begun",
+        "ingredients": "Eggplant , Oil , Cumin seeds , Onions , Garlic , Tomatoes",
+        "details" : "roasting a large eggplant in the oven until it is tender and the skin is charred. Once it has cooled, remove the skin and chop the flesh into small pieces. In a pan, heat some oil and add cumin seeds, chopped onions, and minced garlic. Sauté until the onions are translucent and the garlic is fragrant. Add chopped tomatoes, salt, and turmeric powder to the pan and cook until the tomatoes are soft and the mixture has thickened. Add the chopped eggplant to the pan and stir well. Cook on medium heat for 5-7 minutes or until the eggplant is cooked through and the flavors have blended. Once the curry is cooked, turn off the heat and garnish with fresh cilantro. Serve hot with rice or bread.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020495.jpg"
 
 
     },
@@ -176,10 +184,11 @@
     {
         "chef_id": 4,
         "recipe_id":"32f3jdd4edf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Bhuna Khichuri",
+        "rating":4.4,
+        "ingredients": "MoogdAl 1 cup , PolAu Rice  2 cups , Finely diced ginger 2 tsp , Salt 1 tbsp , Cinnamon Sticks 2/3 , Bayleaf 2 [small ones]",
+        "details" : "Khichuri (also known as khichri in the Indian subcontinent) is a dish essentially of rice and lentils. There are an infinite varieties of Khichuri. This version is a drier version and uses Moog Daal (Mung beans) instead of the standard yellow lentils.. Ingredients MoogdAl 1 cup PolAu Rice  2 cups Finely diced ginger 2 tsp",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri-800x475.png"
 
 
     },
@@ -188,20 +197,22 @@
     {
         "chef_id": 4,
         "recipe_id":"32f3jdk8f",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Dharosh Bhaji",
+        "rating":4.2,
+        "ingredients":" Okra , Oil , Cumin seeds , Onions , Garlic , Tomatoes",
+        "details" : "start by washing and drying the okra, then cutting it into small pieces. In a pan, heat some oil and add cumin seeds, sliced onions, and minced garlic. Sauté until the onions are translucent, then add diced tomatoes, turmeric, coriander, and cumin powder. Cook until the tomatoes are soft and the spices are fragrant. Add the okra to the pan and stir to coat it with the tomato and spice mixture. Cover the pan and let the okra cook over medium heat for about 10-15 minutes, stirring occasionally, until it is tender but still retains some bite. Finally, sprinkle some garam masala over the dish and garnish with fresh cilantro before serving hot with rice or flatbread.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/07/okra.jpg"
 
 
     },
     {
         "chef_id": 4,
         "recipe_id":"32f3jf997f",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Chicken Tikka Masala",
+        "rating":4.4,
+        "ingredients": "Chicken , Tomatoes , Cream , Garam masala , Ginger and garlic paste",
+        "details" : "start by marinating chicken in a mixture of yogurt, ginger-garlic paste, and spices such as cumin, coriander, and turmeric. Grill or bake the chicken until it is cooked through and slightly charred. In a separate pan, sauté onions, garlic, and ginger until soft, then add diced or pureed tomatoes and cook until they break down into a thick sauce. Stir in spices such as garam masala, paprika, and chili powder, and add cream or coconut milk for a creamy finish. Finally, add the grilled chicken to the sauce and simmer for a few minutes until the flavors meld together. Serve hot with rice, naan, or your favorite flatbread.",
+        "image": "https://media.istockphoto.com/id/1365548297/photo/spicy-indian-chicken-tikka-masala-served-at-an-expensive-fine-dining-restaurant.jpg?s=612x612&w=0&k=20&c=snn7wGdWMj0nYOjHNG7z4jgmhZ8071qnb_apYG6V5qs="
 
 
     },
@@ -211,9 +222,10 @@
         "chef_id": 5,
         "recipe_id":"32f3jjdf",
         "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k=",
+        "ingredients": "Beef , Basmati rice , Biryani masala ,  Onions  ,  Yogurt",
+        "details": "first marinate the beef with yogurt and biryani masala. Then, fry sliced onions until golden brown and set them aside. Brown the marinated beef in a pot, add water and salt, and let it cook until tender. Boil basmati rice in a separate pot until half cooked, then add it to the beef pot and stir gently. Top with fried onions and cover the pot, cooking for an additional 10-15 minutes until the rice is fully cooked. Serve hot and enjoy!",
+        "rating": 4.5
 
 
     },
@@ -221,20 +233,21 @@
     {
         "chef_id": 5,
         "recipe_id":"32f3jd9f",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Mashur Daal",
+        "ingredients": "Red lentils , Oil , Cumin seeds , Onions , Tomatoes",
+        "details" : "start by rinsing the red lentils and soaking them for at least 30 minutes. In a pressure cooker or pot, heat some oil and add cumin seeds, chopped onions, and chopped tomatoes. Sauté until the onions are golden brown and the tomatoes are soft. Add the soaked lentils, water, salt, and a pinch of turmeric powder to the pot and stir well. If using a pressure cooker, cook on high for about 10-12 minutes or until the lentils are tender. If using a regular pot, simmer the lentils until they are soft and tender, stirring occasionally. In a separate pan, heat some ghee or clarified butter and add some cumin seeds and red chili powder. Once the seeds start to sizzle, pour the mixture over the cooked lentils and stir well. Serve hot with rice or naan bread.",
+        "image": "https://media.istockphoto.com/id/1400659148/photo/rajasthani-dish-cusine-meal-called-dal-baati-churma.jpg?b=1&s=170667a&w=0&k=20&c=W9Y9TZEKU7xyj1ISswNK3mxzJYGsOp2yWz2UchckwXQ="
 
 
     },
     {
         "chef_id": 5,
         "recipe_id":"32f3jfadsjfjd87",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Chicken Biriyani",
+        "rating": 4.9,
+        "ingredients": "Chicken , Basmati rice , Biryani masala , Yogurt , Onions",
+        "details" : "start by rinsing the basmati rice in cold water and soaking it for 30 minutes. In the meantime, marinate the chicken with yogurt and biryani masala in a large mixing bowl. Cover the bowl and refrigerate for at least an hour. Then, heat the vegetable oil in a large pot or Dutch oven over medium-high heat. Add sliced onions and fry until golden brown and crispy. Remove the onions from the pot and set aside. Add the marinated chicken to the pot and cook until it is browned on all sides. Add 4 cups of water and salt to the pot, cover it with a lid, and let it cook for about 30 minutes or until the chicken is tender. In a separate pot, boil the soaked basmati rice in salted water until it is half cooked. Drain the rice and add it to the pot with the cooked chicken. Stir gently until the rice is evenly distributed. Top with the fried onions and chopped fresh herbs such as cilantro or mint. Cover the pot and cook on low heat for an additional 10-15 minutes until the rice is fully cooked and fluffy. Serve hot with raita or your favorite chutney.",
+        "image": "https://media.istockphoto.com/id/1333127665/photo/chicken-biryani-spicy-indian-malabar-biryani-hyderabadi-biryani-dum-biriyani-pulao-golden.jpg?s=612x612&w=0&k=20&c=63UXYPOISm8nJ8SNK79dDm0w1gY6jXzYQP0heL6fnOg="
 
 
     },
@@ -248,10 +261,11 @@
     {
         "chef_id": 6,
         "recipe_id":"32f3786jf",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Bhuna Khichuri",
+        "rating":4.4,
+        "ingredients": "MoogdAl 1 cup , PolAu Rice  2 cups , Finely diced ginger 2 tsp , Salt 1 tbsp , Cinnamon Sticks 2/3 , Bayleaf 2 [small ones]",
+        "details" : "Khichuri (also known as khichri in the Indian subcontinent) is a dish essentially of rice and lentils. There are an infinite varieties of Khichuri. This version is a drier version and uses Moog Daal (Mung beans) instead of the standard yellow lentils.. Ingredients MoogdAl 1 cup PolAu Rice  2 cups Finely diced ginger 2 tsp",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri-800x475.png"
 
 
     },
@@ -259,10 +273,11 @@
     {
         "chef_id": 6,
         "recipe_id":"32f3j342f",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Brown Rice",
+        "rating":4.4,
+        "ingredients": "Brown rice , Water or broth , Salt , Olive oil or butter (optional)",
+        "details" : "start by rinsing the brown rice under cold running water to remove any debris or excess starch. In a medium saucepan, combine the brown rice and water or broth in a ratio of 2:1 (2 cups of water for every 1 cup of rice). Add a pinch of salt to season the rice, and a small amount of olive oil or butter (optional) to add flavor and richness. Bring the water to a boil over high heat, then reduce the heat to low and cover the pot with a tight-fitting lid. Let the rice simmer for about 40-50 minutes, or until the water is absorbed and the rice is tender and fluffy. Remove the pot from the heat and let the rice sit, covered, for about 5-10 minutes to steam and absorb any excess moisture. Fluff the rice with a fork and serve hot or use it in your favorite recipe.",
+        "image": "https://media.istockphoto.com/id/1372166601/photo/portion-of-cooked-salmon-with-rice-and-greens.jpg?s=612x612&w=0&k=20&c=m0H3dNydJgmdiiWoWUxK9ksg68EeVDoCoiBLcUFpLYA="
 
 
     },
@@ -270,10 +285,11 @@
     {
         "chef_id": 6,
         "recipe_id":"32f3jfajjjj",
-        "recipe_name": "Beef Biriyani",
-        "ingredients": 5,
-        "details" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium ullam sunt, consequatur rerum minus sequi tenetur vel quos voluptates.",
-        "image": "https://media.istockphoto.com/id/1480129452/photo/mutton-biryani-at-wooden-background.jpg?s=612x612&w=0&k=20&c=VXJ2rHBdxUPfmO81x6qKj7YkPedqTIGZULQAlDqNp4k="
+        "recipe_name": "Palong Shaak Bhaji",
+        "rating":4.6,
+        "ingredients": "Spinach leaves , Oil , Cumin seeds , Onions , Garlic",
+        "details" : "start by washing and chopping spinach leaves. In a pan, heat some oil and add cumin seeds, chopped onions, and minced garlic. Sauté until the onions are translucent and the garlic is fragrant. Add chopped tomatoes, salt, and red chili powder to the pan and cook until the tomatoes are soft and the mixture has thickened. Add the chopped spinach to the pan and stir well. Cook the spinach on medium heat for 5-7 minutes or until it has wilted down and cooked through. Add a splash of water if the mixture becomes too dry. Once the spinach is cooked, turn off the heat and add a dollop of ghee or clarified butter. Serve hot with rice or naan bread.",
+        "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/09/spinach.jpg"
 
 
     }
