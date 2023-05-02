@@ -41,8 +41,8 @@
         "chef_id": 1,
         "recipe_id":"3a3jaa",
         "recipe_name": "Bhuna Khichuri",
-        "rating":4.7,
-        "ingredients": "MoogdAl 1 cup , PolAu Rice  2 cups , Finely diced ginger 2 tsp , Salt 1 tbsp , Cinnamon Sticks 2/3 , Bayleaf 2 [small ones]",
+        "rating":4.4,
+        "ingredients": "Rice , Yellow lentils , Onions , Garlic , Ginger",
         "details" : "Khichuri (also known as khichri in the Indian subcontinent) is a dish essentially of rice and lentils. There are an infinite varieties of Khichuri. This version is a drier version and uses Moog Daal (Mung beans) instead of the standard yellow lentils.. Ingredients MoogdAl 1 cup PolAu Rice  2 cups Finely diced ginger 2 tsp",
         "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri-800x475.png"
 
@@ -117,6 +117,8 @@
         "chef_id": 3,
         "recipe_id":"32fddd773jf",
         "recipe_name": "Mashur Daal",
+        "rating": 4.8,
+
         "ingredients": "Red lentils , Oil , Cumin seeds , Onions , Tomatoes",
         "details" : "start by rinsing the red lentils and soaking them for at least 30 minutes. In a pressure cooker or pot, heat some oil and add cumin seeds, chopped onions, and chopped tomatoes. Sauté until the onions are golden brown and the tomatoes are soft. Add the soaked lentils, water, salt, and a pinch of turmeric powder to the pot and stir well. If using a pressure cooker, cook on high for about 10-12 minutes or until the lentils are tender. If using a regular pot, simmer the lentils until they are soft and tender, stirring occasionally. In a separate pan, heat some ghee or clarified butter and add some cumin seeds and red chili powder. Once the seeds start to sizzle, pour the mixture over the cooked lentils and stir well. Serve hot with rice or naan bread.",
         "image": "https://media.istockphoto.com/id/1400659148/photo/rajasthani-dish-cusine-meal-called-dal-baati-churma.jpg?b=1&s=170667a&w=0&k=20&c=W9Y9TZEKU7xyj1ISswNK3mxzJYGsOp2yWz2UchckwXQ="
@@ -154,6 +156,7 @@
         "chef_id": 3,
         "recipe_id":"32f3jf221f",
         "recipe_name": "Tomato Begun",
+        "rating": 4.5,
         "ingredients": "Eggplant , Oil , Cumin seeds , Onions , Garlic , Tomatoes",
         "details" : "roasting a large eggplant in the oven until it is tender and the skin is charred. Once it has cooled, remove the skin and chop the flesh into small pieces. In a pan, heat some oil and add cumin seeds, chopped onions, and minced garlic. Sauté until the onions are translucent and the garlic is fragrant. Add chopped tomatoes, salt, and turmeric powder to the pan and cook until the tomatoes are soft and the mixture has thickened. Add the chopped eggplant to the pan and stir well. Cook on medium heat for 5-7 minutes or until the eggplant is cooked through and the flavors have blended. Once the curry is cooked, turn off the heat and garnish with fresh cilantro. Serve hot with rice or bread.",
         "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020495.jpg"
@@ -173,6 +176,8 @@
         "chef_id": 4,
         "recipe_id":"32faaj33jf",
         "recipe_name": "Tomato Begun",
+        "rating": 4.5,
+
         "ingredients": "Eggplant , Oil , Cumin seeds , Onions , Garlic , Tomatoes",
         "details" : "roasting a large eggplant in the oven until it is tender and the skin is charred. Once it has cooled, remove the skin and chop the flesh into small pieces. In a pan, heat some oil and add cumin seeds, chopped onions, and minced garlic. Sauté until the onions are translucent and the garlic is fragrant. Add chopped tomatoes, salt, and turmeric powder to the pan and cook until the tomatoes are soft and the mixture has thickened. Add the chopped eggplant to the pan and stir well. Cook on medium heat for 5-7 minutes or until the eggplant is cooked through and the flavors have blended. Once the curry is cooked, turn off the heat and garnish with fresh cilantro. Serve hot with rice or bread.",
         "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020495.jpg"
@@ -186,7 +191,7 @@
         "recipe_id":"32f3jdd4edf",
         "recipe_name": "Bhuna Khichuri",
         "rating":4.4,
-        "ingredients": "MoogdAl 1 cup , PolAu Rice  2 cups , Finely diced ginger 2 tsp , Salt 1 tbsp , Cinnamon Sticks 2/3 , Bayleaf 2 [small ones]",
+        "ingredients": "Rice , Yellow lentils , Onions , Garlic , Ginger",
         "details" : "Khichuri (also known as khichri in the Indian subcontinent) is a dish essentially of rice and lentils. There are an infinite varieties of Khichuri. This version is a drier version and uses Moog Daal (Mung beans) instead of the standard yellow lentils.. Ingredients MoogdAl 1 cup PolAu Rice  2 cups Finely diced ginger 2 tsp",
         "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri-800x475.png"
 
@@ -234,6 +239,8 @@
         "chef_id": 5,
         "recipe_id":"32f3jd9f",
         "recipe_name": "Mashur Daal",
+        "rating": 4.5,
+
         "ingredients": "Red lentils , Oil , Cumin seeds , Onions , Tomatoes",
         "details" : "start by rinsing the red lentils and soaking them for at least 30 minutes. In a pressure cooker or pot, heat some oil and add cumin seeds, chopped onions, and chopped tomatoes. Sauté until the onions are golden brown and the tomatoes are soft. Add the soaked lentils, water, salt, and a pinch of turmeric powder to the pot and stir well. If using a pressure cooker, cook on high for about 10-12 minutes or until the lentils are tender. If using a regular pot, simmer the lentils until they are soft and tender, stirring occasionally. In a separate pan, heat some ghee or clarified butter and add some cumin seeds and red chili powder. Once the seeds start to sizzle, pour the mixture over the cooked lentils and stir well. Serve hot with rice or naan bread.",
         "image": "https://media.istockphoto.com/id/1400659148/photo/rajasthani-dish-cusine-meal-called-dal-baati-churma.jpg?b=1&s=170667a&w=0&k=20&c=W9Y9TZEKU7xyj1ISswNK3mxzJYGsOp2yWz2UchckwXQ="
@@ -263,7 +270,7 @@
         "recipe_id":"32f3786jf",
         "recipe_name": "Bhuna Khichuri",
         "rating":4.4,
-        "ingredients": "MoogdAl 1 cup , PolAu Rice  2 cups , Finely diced ginger 2 tsp , Salt 1 tbsp , Cinnamon Sticks 2/3 , Bayleaf 2 [small ones]",
+        "ingredients": "Rice , Yellow lentils , Onions , Garlic , Ginger",
         "details" : "Khichuri (also known as khichri in the Indian subcontinent) is a dish essentially of rice and lentils. There are an infinite varieties of Khichuri. This version is a drier version and uses Moog Daal (Mung beans) instead of the standard yellow lentils.. Ingredients MoogdAl 1 cup PolAu Rice  2 cups Finely diced ginger 2 tsp",
         "image": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri-800x475.png"
 
